@@ -2,6 +2,8 @@
 
 http://www.runoob.com/python3/python3-basic-syntax.html
 
+http://crossincode.com/course/lesson_list/
+
 标识符
 </br>第一个字符必须是字母表中字母或下划线 _ 。
 </br>标识符的其他的部分由字母、数字和下划线组成。
